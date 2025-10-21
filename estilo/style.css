@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/*paleta de cores
+--amaranth-pink: #df94bbff;
+--thistle: #ddbfd5ff;
+--oxford-blue: #041d3bff;
+--saffron: #f7c552ff;
+--jasmine: #f9d16fff;
+*/
+
+
+:root{
+--cor1: #df94bbff;
+--cor2: #ddbfd5ff;
+--cor3: #041d3bff;
+--cor4: #f7c552ff;
+--cor5: #f9d16fff;
+--cor6: #FFFFFF;
+--cor7: black;
+
+}
+
